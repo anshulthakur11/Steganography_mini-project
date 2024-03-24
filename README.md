@@ -11,8 +11,8 @@ Stegano (Python library for steganography)
 You can install the necessary dependencies using pip:
 
 **Copy code**
->> pip install pillow
->> pip install stegano
+ pip install pillow
+ pip install stegano
 **Usage**
 
 Clone or download this repository to your local machine.
