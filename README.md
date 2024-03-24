@@ -11,6 +11,7 @@ Stegano (Python library for steganography)
 You can install the necessary dependencies using pip:
 
 **Copy code**
+
  pip install pillow
  
  pip install stegano
@@ -28,7 +29,9 @@ Click on the "Open Image" button to select an image file (in JPG format) to hide
 Type your secret message in the text box provided.
 Click on the "Hide Data" button to embed the text message into the selected image.
 To reveal the hidden message from an image, click on the "Show Data" button.
-You can save the modified image with the hidden message by clicking on the "Save Image" button.
+You can save the modified image with the hidden message by clicking on the "Save Image" button.  
+
+
 **Notes**
 
 Make sure to select a JPEG image file to hide the text message. Other file formats are not supported.
