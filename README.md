@@ -1,4 +1,4 @@
-Introduction
+ Introduction
 This Python script allows you to hide a secret text message within an image using steganography. Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video. In this case, the text message is hidden within the pixels of the image, making it imperceptible to the human eye.
 
 **Requirements**
@@ -12,8 +12,11 @@ You can install the necessary dependencies using pip:
 
 **Copy code**
  pip install pillow
+ 
  pip install stegano
-**Usage**
+ 
+ 
+ **Usage**
 
 Clone or download this repository to your local machine.
 Open a terminal or command prompt and navigate to the directory containing the script.
